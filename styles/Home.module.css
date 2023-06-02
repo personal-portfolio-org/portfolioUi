@@ -127,3 +127,44 @@
     filter: invert(1);
   }
 }
+
+.updateCard
+{
+background-color: lavender;
+max-width: 450px;
+margin-top: 5rem;
+border-color: purple;
+font-family: 'Times New Roman', Times, serif;
+}
+.updateTextPart1
+{
+  color: purple;
+}
+.updateTextPart2
+{
+  line-height: 1rem;
+  font-size: 1rem;
+  color: brown;
+  font-weight: bold;
+}
+
+.container
+{
+  background-color: #0c1445;
+  align-items: center;
+  height: 80vh;
+  display: flex;
+  justify-content:space-between;
+  overflow: auto;
+}
+.polaroid
+{
+  margin:1rem;
+  box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media (max-width: 800px) {
+  .container {
+    display: block;
+  }
+}
