@@ -15,7 +15,7 @@ export default function About() {
                 <div id="firstChildContainer" className={`${styles.card} ${styles.updateCard} ${styles.updateTextPart1}`}>
 
                     <p>
-                        I'm Aniket Singh. I've interest in Chatbot, Full Stack and Software Developer. Also, I'd loved to work as
+                        I am Aniket Singh. I have interest in Chatbot, Full Stack and Software Developer. Also, I had loved to work as
                         researcher for physical science, Artifical Intelligence and Machine Learning.
                     </p>
                     <p>
